@@ -40,7 +40,7 @@ Safe-Zone-Detection-and-Visualization/
 
 | Input | Output |
 |---------------|----------------------------|
-| ([input](screenshots/input.png)) | ([output](screenshots/output.png)) |
+| ![Model Summary](screenshots/input.png) | ![Training Accuracy and Loss](screenshots/output.png) |
 
 
 ## 📸 How It Works
